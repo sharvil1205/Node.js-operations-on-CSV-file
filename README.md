@@ -15,6 +15,8 @@ The criteria for finding the habitable planet is given below.All the 3 condition
 
 You can store the output in an array and display it in the terminal console
 
+
+
 **
 Installation guide:**
 
